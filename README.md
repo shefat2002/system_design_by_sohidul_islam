@@ -15,9 +15,9 @@
 - ✅ Basic Networking in System Design
 - ✅ CAP theorem - Brewer's theorem
 - ✅ Caching in System Design
+- ✅ API Design, Database Schema & Class Diagram
 - ✅ Database in System Design
 - ✅ System Design Use Cases (e.g. YouTube, WhatsApp, URL Shortener)
-- ✅ API Design, Database Schema & Class Diagram
 - ✅ Real-world System Design Interview Preparation
 
 ---
@@ -38,25 +38,6 @@
 3. Diagram ও Notes গুলো সাথে রাখুন, প্রয়োজনে Fork করুন
 4. Practice System Design Q&A (ভবিষ্যতে এখানে যুক্ত হবে)
 5. GitHub স্টার দিয়ে সাপোর্ট করুন ⭐
-
----
-
-## 🗂️ কোর্স কনটেন্ট (Progressing...)
-
-| পর্ব | বিষয় |
-|------|------|
-| 01 | System Design কী, কেন দরকার |
-| 02 | High Level Design vs Low Level Design |
-| 03 | Monolith vs Microservices |
-| 04 | Computer Architecture in System design |
-| 05 | System Performance Metrics Explained - Scalability, Availability, Reliability Explained |
-| 06 | Scalability in System Design
-| 07 | CAP theorem - Brewer's theorem
-| 07 | Caching in System Design
-| 08 | Database in System Design
-| 09 | Basic Networking in System Design |
-| 10 | Designing YouTube System |
-| ... | আরও আসছে 🔄 |
 
 ---
 
